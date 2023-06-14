@@ -1,0 +1,48 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Towam___projekt__1_"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="Towam___projekt__1_.Window1"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+
+        <materialDesign:Card HorizontalAlignment="Left" Height="420" VerticalAlignment="Top" Width="132" Background="#FFA200FF"/>
+        <Label x:Name="lblSavingsName" Content="Nazwa celu:" HorizontalAlignment="Left" Margin="540,116,0,264"/>
+        <Label x:Name="lblSavingsAmount" Content="Kwota celu:" HorizontalAlignment="Left" Margin="540,10,0,376"/>
+        <Label x:Name="labelGoalName" Content="" Width="100" Margin="181,27,512.6,362" />
+        <TextBox x:Name="txtSavingsAmount" HorizontalAlignment="Left"  Width="200" Margin="538,44,0,327" />
+        <TextBox x:Name="txtSavingsName" HorizontalAlignment="Left"  Width="200" Margin="538,156,0,223" />
+        <ProgressBar x:Name="progressBar"  Height="Auto" Minimum="0" Maximum="100" Margin="173,63,297.6,307" Value="{Binding ProgressPercentage}" >
+            <ProgressBar.Style>
+                <Style TargetType="{x:Type ProgressBar}">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ProgressPercentage}" Value="100">
+                            <Setter Property="Foreground" Value="Green"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ProgressPercentage}" Value="75">
+                            <Setter Property="Foreground" Value="Yellow"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ProgressPercentage}" Value="50">
+                            <Setter Property="Foreground" Value="Orange"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ProgressPercentage}" Value="25">
+                            <Setter Property="Foreground" Value="Red"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </ProgressBar.Style>
+        </ProgressBar>
+        <TextBlock x:Name="txtProgressPercentage" Text="{Binding ElementName=progressBar, Path=Value, StringFormat={}{0}%}" HorizontalAlignment="Center" Width="100" Height="20" VerticalAlignment="Center" Margin="344,73,349.6,327" TextAlignment="Center"/>
+        <TextBox x:Name="txtSavings" Text="Podaj kwotę oszczędności" Margin="509,262,133.6,120"  />
+        <Button x:Name="btnUpdate" Content="Update Progress" Click="btnUpdate_Click" Margin="173,185,297.6,203"/>
+        <Button x:Name="btnAddSavings" Content="Dodaj cel" Click="btnAddSavings_Click" HorizontalAlignment="Left" Margin="20,99,0,289"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="206,364,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        
+            
+        
+
+    </Grid>
+</Window>

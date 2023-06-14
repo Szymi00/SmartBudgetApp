@@ -1,0 +1,48 @@
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Towam - projekt (1).csprojAssemblyReference.cache
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\MainWindow.g.cs
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Towam - projekt (1)_MarkupCompile.cache
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Towam - projekt (1)_MarkupCompile.lref
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\Towam - projekt (1).exe.config
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\Towam - projekt (1).exe
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\Towam - projekt (1).pdb
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\MaterialDesignColors.dll
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\MaterialDesignColors.pdb
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Register.g.cs
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\App.g.cs
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\App.baml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\MainWindow.baml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Register.baml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Towam - projekt (1).g.resources
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Towam___projekt__1_.Properties.Resources.resources
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Towam - projekt (1).csproj.GenerateResource.cache
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Towam - projekt (1).csproj.CoreCompileInputs.cache
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Towam - projekt (1).csproj.CopyComplete
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Towam - projekt (1).exe
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Towam - projekt (1).pdb
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Dashboard.g.cs
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Dashboard.baml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Expenses.g.cs
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Incomes.g.cs
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\ViewExpenses.g.cs
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\ViewIncome.g.cs
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Expenses.baml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Incomes.baml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\ViewExpenses.baml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\ViewIncome.baml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Window1.g.cs
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Window1.baml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\LiveCharts.dll
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\LiveCharts.xml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\LiveCharts.pdb
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Window2.g.cs
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Window2.baml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Window3.g.cs
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Window3.baml
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Window4.g.cs
+C:\Users\szyt4\source\repos\Towam - projekt (1)\Towam - projekt (1)\obj\Debug\Window4.baml
